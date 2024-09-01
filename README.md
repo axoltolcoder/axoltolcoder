@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @axoltolcoder
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...how to code
-- 💞️ I’m looking to collaborate on ... making a geomtrey dash hack
+- 👀 I’m interested in ...modding
+- 🌱 I’m currently learning ...nothing really
+- minecraft modder
 - 📫 How to reach me ...axalotl0409lover@gmail.com
 
 <!---
